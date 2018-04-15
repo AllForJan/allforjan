@@ -9,3 +9,4 @@
 - https://dennikn.sk/1089572/programator-a-farmar-stat-by-mohol-odhalovat-podvody-s-agrodotaciami-rychlo-a-lacno/?ref=list
 - https://touchit.sk/hackathon-allforjan-priniesol-nastroje-na-kontrolu-polnohospodarskych-dotacii/164194
 - https://www.pcrevue.sk/a/Hackathon-AllForJan-priniesol-nastroje-na-kontrolu-polnohospodarskych-dotacii
+- https://techpedia.ta3.com/technologie-pre-ludi/novinky/svet-it/5403/hackathon-allforjan-priniesol-nastroje-na-kontrolu-polnohospodarskych-dotacii
