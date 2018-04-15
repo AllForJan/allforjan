@@ -8,3 +8,4 @@
 - https://www.zive.sk/clanok/131544/na-hackathone-vytvorili-nastroje-proti-podvodom-zidu-sa-majitelom-pody-novinarom-i-statu/
 - https://dennikn.sk/1089572/programator-a-farmar-stat-by-mohol-odhalovat-podvody-s-agrodotaciami-rychlo-a-lacno/?ref=list
 - https://touchit.sk/hackathon-allforjan-priniesol-nastroje-na-kontrolu-polnohospodarskych-dotacii/164194
+- https://www.pcrevue.sk/a/Hackathon-AllForJan-priniesol-nastroje-na-kontrolu-polnohospodarskych-dotacii
