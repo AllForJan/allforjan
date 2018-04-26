@@ -3,6 +3,7 @@
 ## Webstránka pre AllForJan Hackathon
 
 ## Doterajšie zmienky:
+- https://dennikn.sk/1093239/miliony-na-agrodotaciach-beru-aj-firmy-spojene-s-babisom-jt-aj-byvalym-sefom-pozemkoveho-fondu/?ref=tit1
 - https://ekonomika.sme.sk/c/20798624/kuciakov-odkaz-rozvijali-programatori-ulahcili-kontrolu-agrodotacii.html
 - https://www.etrend.sk/ekonomika/programatori-su-allforjan-ajtaci-vyvinuli-softver-na-kontrolu-agrodotacii.html
 - https://www.zive.sk/clanok/131544/na-hackathone-vytvorili-nastroje-proti-podvodom-zidu-sa-majitelom-pody-novinarom-i-statu/
