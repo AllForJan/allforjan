@@ -26,6 +26,8 @@ https://www.mixcloud.com/nationofte/
 https://www.youtube.com/watch?v=U6l4JBvNei8
 https://podcasts.apple.com/us/podcast/ntecast/id1248755906
 https://podcasts.apple.com/us/podcast/ntecast-41-allforjan-hackathon/id1248755906?i=1000422422628
+https://www.stitcher.com/show/ntecast
+https://www.stitcher.com/show/ntecast/episode/ntecast-41-allforjan-hackathon-56851920
 
 Graph4Jan (Liška)
 https://joinup.ec.europa.eu/collection/open-government/solution/graph4jan-slovakian-linked-open-government-data-2018
