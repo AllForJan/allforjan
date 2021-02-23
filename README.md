@@ -17,6 +17,8 @@
 Denník N využil pri tomto texte dáta a aplikácie tímov AllForOne a KoBraBre z Hackathon - Allforjan:
 https://e.dennikn.sk/1093239/miliony-na-agrodotaciach-beru-aj-firmy-spojene-s-babisom-jt-aj-byvalym-sefom-pozemkoveho-fondu/
 
+"Pre tento text sme využili aj dáta a aplikácie tímov AllForOne a KoBraBre z Hackatonu AllForJan, kde programátori hľadali spôsoby na odhaľovanie podvodov s agrodotáciami. Hackaton zorganizovali Aktuality, SME, FIIT STU a GapData Institute, programátori tam prepájali informácie z rôznych registrov, ktoré sú dnes verejné, ale je takmer nemožné v nich vyhľadávať a prepájať ich."
+
 Podcast: 
 https://nationofte.sk/
 https://www.mixcloud.com/nationofte/ntecast-41-allforjan-hackathon/
