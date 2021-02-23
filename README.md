@@ -14,6 +14,9 @@
 - https://techpedia.ta3.com/technologie-pre-ludi/novinky/svet-it/5403/hackathon-allforjan-priniesol-nastroje-na-kontrolu-polnohospodarskych-dotacii
 - https://robime.it/hackathon-allforjan-priniesol-nastroje-na-kontrolu-polnohospodarskych-dotacii/
 
+Denník N využil pri tomto texte dáta a aplikácie tímov AllForOne a KoBraBre z Hackathon - Allforjan:
+https://e.dennikn.sk/1093239/miliony-na-agrodotaciach-beru-aj-firmy-spojene-s-babisom-jt-aj-byvalym-sefom-pozemkoveho-fondu/
+
 Podcast: 
 https://nationofte.sk/
 https://www.mixcloud.com/nationofte/ntecast-41-allforjan-hackathon/
