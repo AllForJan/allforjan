@@ -13,6 +13,7 @@
 - https://www.pcrevue.sk/a/Hackathon-AllForJan-priniesol-nastroje-na-kontrolu-polnohospodarskych-dotacii
 - https://techpedia.ta3.com/technologie-pre-ludi/novinky/svet-it/5403/hackathon-allforjan-priniesol-nastroje-na-kontrolu-polnohospodarskych-dotacii
 - https://robime.it/hackathon-allforjan-priniesol-nastroje-na-kontrolu-polnohospodarskych-dotacii/
+- https://www.trend.sk/spravy/ajtaci-su-allforjan-vyvinuli-softver-kontrolu-agrodotacii
 
 Denník N využil pri tomto texte dáta a aplikácie tímov AllForOne a KoBraBre z Hackathon - Allforjan:
 https://e.dennikn.sk/1093239/miliony-na-agrodotaciach-beru-aj-firmy-spojene-s-babisom-jt-aj-byvalym-sefom-pozemkoveho-fondu/
